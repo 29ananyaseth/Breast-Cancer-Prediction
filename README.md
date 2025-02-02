@@ -1,3 +1,5 @@
+
+
 Breast Cancer Prediction using SVM
 
 This is a Breast Cancer Prediction Web App built using Streamlit and Support Vector Machine (SVM). The model predicts whether a tumor is Benign or Malignant based on six key features.
