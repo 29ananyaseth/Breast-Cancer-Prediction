@@ -1,5 +1,9 @@
 Breast Cancer Prediction using SVM                                                                       
-This is a Breast Cancer Prediction Web App built using Streamlit and Support Vector Machine (SVM). The model predicts whether a tumor is Benign or Malignant based on six key features.
+
+
+🚀 AI-Powered Diagnosis | Fast • Accurate • Life-Saving 💙
+
+🔬 Predict whether a tumor is Benign or Malignant in seconds with a 95.6% accurate SVM model! This sleek and interactive Streamlit app lets you enter tumor details and get instant, AI-driven predictions.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -16,6 +20,18 @@ This is a Breast Cancer Prediction Web App built using Streamlit and Support Vec
 5-Professional & Aesthetic UI with a blue background and Manrope font
 
 ---------------------------------------------------------------------------------------------------
+
+🖥️ Preview of the App
+
+![ss1 (3)](https://github.com/user-attachments/assets/3897807e-a717-4931-aa27-e7f496f56a41)
+
+![ss2 (2)](https://github.com/user-attachments/assets/fc27597a-c5c5-48b3-9b98-20ed24bfd7c7)
+
+![ss3](https://github.com/user-attachments/assets/60617bae-d0a7-4e43-b572-24d1b3708676)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📌 How to Use
 
