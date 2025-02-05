@@ -1,4 +1,4 @@
-Breast Cancer Prediction using SVM                                                                       
+#Breast Cancer Prediction using SVM                                                                       
 
 
 🚀 AI-Powered Diagnosis | Fast • Accurate • Life-Saving 💙
@@ -7,7 +7,7 @@ Breast Cancer Prediction using SVM
 
 ---------------------------------------------------------------------------------------------------
 
-🚀 Features
+##🚀 Features
 
 1-User-friendly Web Interface powered by Streamlit
 
