@@ -1,5 +1,5 @@
 Breast Cancer Prediction using SVM                                                                       
-
+----------------------------------
 
 🚀 AI-Powered Diagnosis | Fast • Accurate • Life-Saving 💙
 
@@ -8,7 +8,7 @@ Breast Cancer Prediction using SVM
 ---------------------------------------------------------------------------------------------------
 
 🚀 Features
-
+-------------
 1-User-friendly Web Interface powered by Streamlit
 
 2-Machine Learning Model (SVM) trained on breast cancer dataset
@@ -22,7 +22,7 @@ Breast Cancer Prediction using SVM
 ---------------------------------------------------------------------------------------------------
 
 🖥️ Preview of the App
-
+-----------------------
 ![ss1 (3)](https://github.com/user-attachments/assets/3897807e-a717-4931-aa27-e7f496f56a41)
 
 ![ss2 (2)](https://github.com/user-attachments/assets/fc27597a-c5c5-48b3-9b98-20ed24bfd7c7)
@@ -34,7 +34,7 @@ Breast Cancer Prediction using SVM
 
 
 📌 How to Use
-
+--------------
 1-Clone this repository:
 
 -git clone https://github.com/29ananyaseth/Breast-Cancer-Prediction.git
@@ -53,7 +53,7 @@ streamlit run app.py
 -------------------------------------------------------------------------------------------------
 
 🖥️ Tech Stack
-
+---------------
 1-Python (Data Processing & Model)
 
 2-Scikit-Learn (Machine Learning)
@@ -68,7 +68,7 @@ streamlit run app.py
 -----------------------------------------------------------------------------------------------------
 
 📊 Model Details
-
+------------------
 ->Algorithm: Support Vector Machine (SVM)
 
 ->Features Used:
@@ -85,7 +85,7 @@ Radius Mean,
 
 
 📂 Project Structure:
-
+-----------------------
 
 📁 Breast-Cancer-Prediction/
 
@@ -99,17 +99,12 @@ Radius Mean,
 
 │-- 📄 README.md           # Project Documentation
 
--------------------------------------------------------------------------------------------------
-
-📜 License
-
-This project is open-source and free to use under the MIT License.
 
 ------------------------------------------------------------------------------------------------
 
 
 Made with ❤️ by Ananya ✨
-
+-------------------------
 
 
 
