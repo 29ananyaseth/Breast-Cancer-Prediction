@@ -37,7 +37,7 @@ Breast Cancer Prediction using SVM
 
 1-Clone this repository:
 
--git clone https://github.com/your-username/Breast-Cancer-Prediction.git
+-git clone https://github.com/29ananyaseth/Breast-Cancer-Prediction.git
 -cd Breast-Cancer-Prediction
 
 2-Install dependencies:
